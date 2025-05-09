@@ -8,6 +8,6 @@ A simple calculator application built with Python.
 - Error handling for invalid inputs
 
 ## How to Run
-1. Make sure Python 3 is installed.
-2. Clone this repository or download `calculator.py`.
-3. Run in terminal:
+1. Make sure you have Python installed
+2. Clone this repository
+3. Run `python calculator.py`:
